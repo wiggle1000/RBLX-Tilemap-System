@@ -10,5 +10,6 @@ SEE IT IN ACTION:
 The files included here do not constitute the full setup, but rather serve as examples of my work; You may test this demonstration out at
 https://www.roblox.com/games/104304443855799/2d
 
-Copyright @wiggle1000 2025
+Copyright 2025@wiggle1000
+
 All rights reserved.
